@@ -1,0 +1,17 @@
+{
+  "name": "nodejsboilerplate",
+  "version": "1.0.0",
+  "description": "this is nodejs boiler plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nodeboilerplate"
+  ],
+  "author": "Nagendra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
